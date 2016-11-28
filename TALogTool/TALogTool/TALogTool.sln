@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.0.8783
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TALogTool", "TALogTool.csproj", "{E1A526A1-444A-4322-B315-79B5AF4CB40D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Debug|i586-WinNT5.01 = Debug|i586-WinNT5.01
+		Release|i586-WinNT5.01 = Release|i586-WinNT5.01
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1A526A1-444A-4322-B315-79B5AF4CB40D}.Debug|x86.Build.0 = Debug|x86
+		{E1A526A1-444A-4322-B315-79B5AF4CB40D}.Debug|x86.ActiveCfg = Debug|x86
+		{E1A526A1-444A-4322-B315-79B5AF4CB40D}.Release|x86.Build.0 = Release|x86
+		{E1A526A1-444A-4322-B315-79B5AF4CB40D}.Release|x86.ActiveCfg = Release|x86
+		{E1A526A1-444A-4322-B315-79B5AF4CB40D}.Debug|i586-WinNT5.01.Build.0 = Debug|i586-WinNT5.01
+		{E1A526A1-444A-4322-B315-79B5AF4CB40D}.Debug|i586-WinNT5.01.ActiveCfg = Debug|i586-WinNT5.01
+		{E1A526A1-444A-4322-B315-79B5AF4CB40D}.Release|i586-WinNT5.01.Build.0 = Release|i586-WinNT5.01
+		{E1A526A1-444A-4322-B315-79B5AF4CB40D}.Release|i586-WinNT5.01.ActiveCfg = Release|i586-WinNT5.01
+	EndGlobalSection
+EndGlobal
